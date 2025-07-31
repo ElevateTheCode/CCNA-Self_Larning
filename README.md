@@ -93,21 +93,13 @@ CCNA-Networking-Study/
     ├── gns3_topologies.md            # GNS3 lab files and explanation
     ├── eve_ng_guide.md               # Setting up EVE-NG
     └── real_hw_labs.md               # How to practice with real hardware
-
+---
 
  🧪 Tools Recommended
-Cisco Packet Tracer
-
-GNS3
-
-EVE-NG
-
-Cisco CLI Simulators
+    Cisco Packet Tracer
+    GNS3
+    EVE-NG
+    Cisco CLI Simulators
 
 🏁 Goal
 Help learners build practical CCNA skills and prepare for real-world network roles — with confidence.
-
-
-
----
-
