@@ -36,6 +36,15 @@ This project is organized in a structured, beginner-friendly way to help you mas
 5. Build your own notes and commit them here!
 
 ---
+ 🧪 Tools Recommended
+    Cisco Packet Tracer
+    GNS3
+    EVE-NG
+    Cisco CLI Simulators
+
+🏁 Goal
+Help learners build practical CCNA skills and prepare for real-world network roles — with confidence.
+---
 
 ## 🗂️ Project Structure
 
@@ -95,11 +104,4 @@ CCNA-Networking-Study/
     └── real_hw_labs.md               # How to practice with real hardware
 ---
 
- 🧪 Tools Recommended
-    Cisco Packet Tracer
-    GNS3
-    EVE-NG
-    Cisco CLI Simulators
 
-🏁 Goal
-Help learners build practical CCNA skills and prepare for real-world network roles — with confidence.
