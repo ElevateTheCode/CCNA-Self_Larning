@@ -101,6 +101,12 @@ CCNA-Networking-Study/
     ├── packet_tracer_labs.md         # Sample Packet Tracer exercises
     ├── gns3_topologies.md            # GNS3 lab files and explanation
     ├── eve_ng_guide.md               # Setting up EVE-NG
+
+
+
+If you're feeling generous, I wouldn't say no to a cup of coffee!
+Contact: +880 19219 64044
+
     └── real_hw_labs.md               # How to practice with real hardware
 ---
 
