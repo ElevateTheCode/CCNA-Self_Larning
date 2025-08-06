@@ -1,3 +1,5 @@
+🌐 The OSI Model
+
 The Open Systems Interconnection (OSI) model is a conceptual framework used to understand how data travels from one computer to another. It has 7 layers.
 
 1.  **Physical Layer (Layer 1):** Deals with the physical medium, such as cables, connectors, and electrical signals. (e.g., Ethernet cables, Hubs)
