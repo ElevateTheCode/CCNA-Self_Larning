@@ -1,4 +1,4 @@
-🌐 The OSI Model
+## 🌐 The OSI Model
 
 The Open Systems Interconnection (OSI) model is a conceptual framework used to understand how data travels from one computer to another. It has 7 layers.
 
